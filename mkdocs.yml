@@ -1,0 +1,11 @@
+site_name: skunk
+site_description: Its all about a Weissman score > 5.0
+repo_url: https://github.com/cosmocochrane1/skunk
+site_dir: site
+copyright: Copyright &copy; 2018, <a href="https://github.com/cosmocochrane1">cosmocochrane1</a>.
+
+pages:
+  - Home: 'index.md'
+  - API:
+    - Authentication: 'api/authentication.md'
+    - Users: 'api/users.md'
